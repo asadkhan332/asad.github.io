@@ -31,5 +31,7 @@ Highly adaptable Automation Engineer specializing in building scalable pipelines
 ---
 
 ## 📬 Contact & Connect
-* **LinkedIn:** 🔗 https://www.linkedin.com/in/asad-farasat-806174392  
+* **LinkedIn:** 🔗 https://www.linkedin.com/in/asad-farasat-806174392
+* **Email:** asadwork012@gmail.com
+* **Instagram:** asadwithai
 * **Location:** Karachi, Pakistan (Available for Global Remote Work)
