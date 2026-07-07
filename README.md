@@ -1,92 +1,35 @@
-# Asad Khan
+# Asad Khan | Automation & AI Operations Portfolio
 
-**AI Automation Specialist | Python Developer**  
-Karachi, Pakistan  
-📧 asadwork012@gmail.com  
-🔗 https://www.linkedin.com/in/asad-farasat-806174392  
+Highly adaptable Automation Engineer specializing in building scalable pipelines, AI integrations, and custom web operations using low-code tools and AI-driven development.
 
 ---
 
-## Professional Summary
-
-Results-oriented AI Automation Specialist focused on building intelligent solutions to streamline daily tasks and business workflows.
-
-Proficient in intermediate Python and advanced workflow automation using n8n. Committed to Spec-Driven Development (SDD) to ensure high-quality, scalable, and client-focused project delivery.
-
----
-
-## Technical Skills
-
-### Automation
-- n8n (Workflow Orchestration)
-- AI-Driven Automation
-
-### Programming
-- Python (Intermediate)
-
-### Methodologies
-- Spec-Driven Development (SDD)
-- AI-Driven Development (AIDD)
-
-### Other Skills
-- Web Application Logic
-- API Integration
-- Problem Solving
+## 🛠️ Tech Stack & Capabilities
+* **Automation Engines:** n8n (Cloud & Local Deployments), Webhooks, REST APIs.
+* **AI & LLM Integration:** Google Gemini API, OpenAI API, Agentic Workflows.
+* **Databases & Backends:** Airtable, Google Sheets.
+* **Web Ecosystems:** Shopify, WordPress, Custom Web Solutions (via Claude Code).
 
 ---
 
-## Key Projects
+## 🚀 Featured Projects
 
-### Jarvis – AI Voice Assistant
-Developed a Python-based personal voice assistant designed to automate local system tasks and provide intelligent voice interactions.
-
-- Implemented core logic for speech recognition
-- Built task execution automation
-- Improved daily productivity through voice commands
-
----
-
-### Event-Finder Web Application
-Designed and built a web-based platform to help users discover and track local events efficiently.
-
-- Focused on clean UI/UX
-- Developed structured backend logic
-- Provided seamless event search experience
+### 1. Automated Lead Ingestion & Qualification System
+* **Core Stack:** n8n, Airtable, External Webhooks
+* **Description:** Designed an end-to-end pipeline that ingests raw incoming lead data instantly from webhooks. 
+* **AI Layer:** Implemented an Agentic AI scoring system that evaluates the incoming payload, qualifies the prospect based on business criteria, and automatically updates the Airtable CRM for immediate sales action.
+* 
+### 2. Conversational AI WhatsApp Business Bot
+* **Core Stack:** n8n, Google Gemini API, Webhooks, Google Sheets
+* **Description:** Developed a responsive WhatsApp automation to handle inbound business traffic 24/7.
+* **How it works:** When a customer messages the business number, a webhook triggers n8n. The workflow sends the query to the Gemini API, references a central spreadsheet backend for context, responds to the client instantly, and logs the entire interaction.
+* 
+### 3. Full-Stack Digital Deployments & Logic
+* **Core Stack:** Claude Code, Shopify, WordPress
+* **Description:** Built and deployed optimized web properties (including local deployments like *Medo* and *Stitch*). Used advanced AI coding environments to write custom themes and modify operational script logic where standard no-code tools hit limitations.
 
 ---
 
-### Professional Portfolio Website
-Created a central hub to showcase technical projects, services, and professional achievements to potential freelance clients.
-
-- Optimized for engagement
-- Clear communication of service value
-- Professional presentation of projects
-
----
-
-## Achievements & Events
-
-### TeknoFest Pakistan 3.0 | Participant
-- Engaged with emerging AI technologies
-- Networked with industry professionals
-- Gained insights into innovation trends
-
-### Model United Nations (MUN) | Delegate
-- Strengthened negotiation skills
-- Enhanced research capabilities
-- Improved professional communication
-
----
-
-## Current Focus
-
-- AI Workflow Automation
-- Python-Based Tools
-- Smart Productivity Systems
-- Scalable Spec-Driven Development Projects
-
----
-
-## Let's Connect
-
-If you're interested in collaboration, automation solutions, or custom development projects, feel free to reach out via email or LinkedIn.
+## 📬 Contact & Connect
+* **LinkedIn:** 🔗 https://www.linkedin.com/in/asad-farasat-806174392  
+* **Location:** Karachi, Pakistan (Available for Global Remote Work)
